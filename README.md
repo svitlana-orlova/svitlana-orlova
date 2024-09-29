@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Svitlana.
-- 👀 I’m interested in programming and CS in general.
-- 🌱 I’m currently learning haskell and raku.
+- 👀 I’m interested in programming and Comper Science
 
 <!---
 svitlana-orlova/svitlana-orlova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
