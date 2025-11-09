@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Svitlana.
-- 👀 I’m interested in programming and Comper Science
+- 👀 I’m interested in Programming and Comper Science.
 
 ### Quick Links
 
