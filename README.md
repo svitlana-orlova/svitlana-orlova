@@ -3,7 +3,7 @@
 
 ### Quick Links
 
-* [Profile Pages ✨](https://svitlana-orlova.github.io/)
+* [Profile Pages](https://svitlana-orlova.github.io/) ✨
 * [Essential Books](https://essential-books.onrender.com)
 
 <!---
